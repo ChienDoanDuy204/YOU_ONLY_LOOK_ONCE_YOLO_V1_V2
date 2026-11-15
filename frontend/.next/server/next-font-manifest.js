@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/home/chiendoan/Code_Module6/YOU_ONLY_LOOK_ONCE_YOLO_V1_V2/frontend/src/app/layout\":[\"static/media/bb3ef058b751a6ad-s.p.woff2\",\"static/media/36966cca54120369-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"

@@ -1,0 +1,45 @@
+{
+  "model": {
+    "num_classes": 20,
+    "img_size": 416,
+    "stride": 32,
+    "weight_path": "model_weight.pth",
+    "anchors": [
+      [33.9074, 43.1555],
+      [94.8374, 118.0962],
+      [159.8270, 256.6951],
+      [314.6092, 157.3282],
+      [375.2903, 333.2395]
+    ],
+    "mean": [0.485, 0.456, 0.406],
+    "std": [0.229, 0.224, 0.225]
+  },
+  "classes": [
+    "aeroplane",
+    "bicycle",
+    "bird",
+    "boat",
+    "bottle",
+    "bus",
+    "car",
+    "cat",
+    "chair",
+    "cow",
+    "diningtable",
+    "dog",
+    "horse",
+    "motorbike",
+    "person",
+    "pottedplant",
+    "sheep",
+    "sofa",
+    "train",
+    "tvmonitor"
+  ],
+  "defaults": {
+    "conf_threshold": 0.25,
+    "iou_threshold": 0.45,
+    "fps": 10
+  }
+}
+
